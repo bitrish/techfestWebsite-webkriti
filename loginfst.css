@@ -1,0 +1,22 @@
+body
+{
+	background-color: rgb(72, 73, 73);
+}
+h1
+{
+	padding-top: 5%;
+	padding-left: 37%;
+}
+.login
+{
+	
+	margin-left: 43%;
+	border-radius: 4px;
+	width: 200px;
+	height: 30px;
+	font-size: 20px;
+}
+.login:hover
+{
+	background-color: rgb(152, 166, 188);
+}

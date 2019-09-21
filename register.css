@@ -1,0 +1,50 @@
+body{
+	background-image: url(tex3.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.Register{
+	background-color: rgb(58, 56, 56,.8);
+	margin-left: 30%;
+	margin-right: 30%;
+    margin-top: 1%;
+    border-radius: 15px;
+    padding-top: 10px;
+}
+input{
+	margin-left: 25%;
+	border:none;
+	border-bottom: 5px solid black;
+	background:transparent;
+	text-align: center;
+	width:300px;
+	color: white;
+	height:30px;
+    border-radius: 8px;
+}
+input:hover{
+	background-color: rgb(214, 209, 209);
+}
+h1{
+	color: white;
+	padding-left: 29%;
+}
+#submit{
+	
+	background-color: rgb(112, 114, 255);
+	border-bottom:5px solid yellow;
+	font-size: 27px;
+	height: 40px;
+    position: absolute;
+    margin-left: 10%;
+}
+::-webkit-input-placeholder{
+color: white;
+};
+::-moz-input-placeholder{
+color: white;
+};
+::-ms-input-placeholder{
+color: white;
+};
+

@@ -1,0 +1,26 @@
+body
+{
+	background-color: black;
+	background-image: url(con2.gif);
+	background-repeat: no-repeat;
+}
+.write
+{
+	background-color: rgb(218, 226, 215);
+	width: 55%;
+	margin-top: 8%; 
+	margin-left: 4%;
+	height: 50%;
+}
+.ris
+{
+	padding-left: 80px;
+}
+.b{
+	background-color: red;
+	color:white;
+	border-radius: 8px;
+	height: 40px;
+	width:100px;
+	margin-left: 45%;
+}

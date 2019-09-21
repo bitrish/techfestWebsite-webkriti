@@ -1,0 +1,63 @@
+body
+{
+	background-color:;
+	background-image: url(free.gif);
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 35%;
+	margin-right: 30%;
+	margin-top: 5%;
+
+color: white;
+}
+h1{
+	padding-left: 27%;
+    padding-top:12%;
+    font-family: sans-serif;
+    color: white;
+}
+.lgpage{
+	background-color:rgb(124, 255, 244);
+	border-radius: 20px;
+	border-right: 4px solid black;
+	border-left:4px solid black;
+	margin-top:1%;
+}
+.label{
+	padding-left:38%;
+    font-size: 25px;
+    font-family: cursive;
+
+
+}
+.submit{
+	margin-left: 35%;
+	border-radius: 5px;
+	padding: 5px 50px;
+	background-color: 
+	;
+
+}
+.input{
+	margin-left: 19%;
+	border-radius: 8px;
+	text-align: center;
+	background:transparent;
+	border:none;
+	border-bottom:2px solid rgb(10, 255, 91);
+	padding: 9px;
+color: white;
+width:300px;
+}
+h4{
+	padding-left: 25%;
+	padding-bottom: ;
+	font-size: 18px;
+}
+h5
+{
+	padding-left: 26%;
+}
+input:hover{
+	background-color:rgb(204, 187, 187,.4);
+}

@@ -1,0 +1,28 @@
+body
+{
+	background-color: rgb(138, 145, 140);
+}
+h1
+{
+padding-left: 35%;
+padding-top: 10%;
+}
+p
+{
+	padding-left: 32%;
+
+}
+.home
+{
+	margin-left: 46%;
+	border-radius: 8px;
+	background:transparent;
+	border-color: white;
+	font-family: monospace;
+	font-size: 20px;
+	background-color:rgb(239, 239, 218);
+}
+.home:hover
+{
+	background-color: rgb(211, 211, 152);
+}

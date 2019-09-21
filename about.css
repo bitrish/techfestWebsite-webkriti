@@ -1,0 +1,49 @@
+body
+{
+	background-color: rgb(12, 12, 12);
+
+}
+h1
+{
+font-family: cursive;
+color:white;
+margin-left: 40%; 
+text-shadow: 4px 4px 4px white;
+
+
+}
+h3
+{
+font-family: monospace;
+color: white;
+font-size: 40px;
+margin-left: 45%; 
+
+}
+p
+{
+font-family: cursive;
+color: white;
+font-size: 30px;
+margin-left: 2%;
+}
+.why
+{
+	margin-left: 35%;
+}
+.but
+{
+	margin-left: 46%;
+	border:none;
+	border-bottom: white;
+	width: 10%;
+	height: 20px;
+	border-radius: 4px;
+	background-color: rgb(122, 69, 69);
+    height:30px;
+
+}
+.but:hover
+{
+	background-color: rgb(145, 138, 138);
+}

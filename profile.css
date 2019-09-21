@@ -1,0 +1,31 @@
+body{
+	background-image: url(tex1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+	font-size: 70px;
+	margin-top: 20px;
+}
+div{
+	background-color: rgb(150, 150, 150);
+	margin:10px 50px;
+    border-radius: 10px;
+    padding-left: 50px;
+    font-family: monospace;
+}
+h2{
+	font-size:40px;
+
+}
+p{
+	color:white;
+	font-size: 30px;
+}
+input{
+	border-radius: 8px;
+	width:100px;
+	height:30px;
+	background-color: rgb(15, 255, 183);
+	font-size: 20px;
+}

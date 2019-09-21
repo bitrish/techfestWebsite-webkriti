@@ -1,0 +1,98 @@
+
+body{
+	background-image: url(back1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+	margin-bottom: 0px;
+	padding-bottom:0px;
+	
+}
+.head{
+	font-size: 70px;
+	font-family: cursive;
+   color:rgb(224, 249, 34)!important; 
+   margin-top: 0px;
+	padding-top:0px;
+   padding-left: 3%;
+   text-shadow: 10px 10px 3px black;
+}
+h5{
+	color:white;
+	padding:0% 2%;
+	margin: 0% 0%;
+
+}
+.img{
+	padding-left: 73%;
+}
+a{
+	font-size: 40px;
+	
+}
+.b{
+	padding-left: 20px;
+	color: white;
+	font-size: 30px;
+}
+button
+{    border:2px solid #3498db;
+     color:#3498db;
+	 background:none;
+	 cursor:pointer;
+	 width:140px;
+	 height: 40px;
+	 float: right;
+	 position: relative;
+     font-family: cursive;
+     font-size: 20px;
+	 transition:.9s;
+}
+button:hover{
+	color:#fff;
+}
+button::before{
+	content:"";
+	width:100%;
+	height:100%;
+	background:#3498db;
+	
+	transition:.6s;
+}
+q::before{
+	top:0;
+	border-radius: 0 0 50% 50%;
+}
+w::before{
+	bottom:0;
+	border-radius:50% 50% 0 0;
+}
+button:hover::before{
+	height:180%;
+}
+.c button
+{
+	margin-left: 1200px;
+}
+.b button{
+	float: left;
+	background-color: rgb(196, 29, 17);
+	color: white;
+}
+.coll{
+	padding-left:40%;
+	position: absolute;
+}
+.arr
+{
+	position: absolute;
+	padding-left: 10%;
+	align-content: center;
+	padding-top: 0%;
+
+}
+.bird
+{
+	background-color: black;
+}
